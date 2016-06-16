@@ -638,6 +638,7 @@ footer{
 	border:1px solid black;
 	position: absolute;
 	top: -2px;
+	left: -20px;
 	display: block;
 	background: rgba(54, 41, 62, 0.9);
 	z-index: 1;
